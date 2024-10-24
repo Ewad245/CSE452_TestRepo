@@ -1,9 +1,14 @@
-# Playground
+# Contribute
 
-Hello world
+Please submit bug reports, suggestions and pull requests to the [Github issue tracker](https://github.com/PHPMailer/PHPMailer#installation--loading)
+We're particularly interested in fixing edge-cases, expanding test coverage and updating translations.
 
-## DFS
+```bash
+git remote set-url upstream https://github.com/PHPMailer/PHPMailer.git
+```
 
-Depth First Traversal (or DFS) for a graph is similar to Depth First Traversal of a tree. Like trees, we traverse all adjacent vertices one by one
+## History
 
-# Open pull request
+- Hello
+- Hi
+- Bye
