@@ -9,6 +9,5 @@ git remote set-url upstream https://github.com/PHPMailer/PHPMailer.git
 
 ## History
 
-- Hello
-- Hi
-- Bye
+- PHPMailer was originally written in 2001 by Brent R. Matzelle as [SourceForge project](#).
+- Marcus Bointon (coolbru on SF) and Andy Prevost (codeworxtech) took over the project in 2004.
